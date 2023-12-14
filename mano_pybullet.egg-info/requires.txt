@@ -1,0 +1,8 @@
+numpy
+chumpy
+transforms3d
+pybullet>=3.0.6
+
+[gym]
+gym>=0.17.3
+imageio
